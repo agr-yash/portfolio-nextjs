@@ -46,6 +46,8 @@ const userData = {
       companyLink: "https://gluelabs.com/",
       desc: "Got a training in frontend library React from professionals and worked with them by creating responsive React UI.",
     },
+  ],
+  education: [
     {
       title: "Graduation",
       company: "Bennett University, Greater NOIDA, Uttar Pradesh",
